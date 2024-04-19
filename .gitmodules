@@ -1,3 +1,6 @@
 [submodule "wongnok-recipe-frontEnd"]
 	path = wongnok-recipe-frontEnd
 	url = https://github.com/looxar/wongnok-recipe-frontEnd
+[submodule "wongnok-recipe-backend"]
+	path = wongnok-recipe-backend
+	url = https://github.com/looxar/wongnok-recipe-backend
